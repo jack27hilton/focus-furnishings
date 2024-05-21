@@ -110,7 +110,7 @@ h2 {
 #home-video {
     padding: 20px 0px;
     width: 100%;
-    height: 60%;
+    height: 500px;
     overflow: hidden;
     border-bottom: 2px solid rgb(78, 78, 78);
 }
@@ -135,6 +135,12 @@ h2 {
 iframe {
     width: 90%;
     height: 420px;
+}
+
+#address {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 34px;
 }
 
 footer {
@@ -208,8 +214,7 @@ footer {
     }
 
     .top-line {
-        font-size: 50px;
-        order: 3;
+        font-size: 40px;
     }
 
     #left-body {
@@ -260,9 +265,10 @@ footer {
         padding: 0px;
     }
 
-    #post-code {
+    #address {
         font-size: 50px;
         text-decoration: none;
+        order: 3;
     }
 
     iframe {
@@ -324,8 +330,7 @@ footer {
     }
 
     .top-line {
-        font-size: 50px;
-        order: 3;
+        font-size: 35px;
     }
 
     #home-video {
@@ -380,9 +385,10 @@ footer {
         order: 1;
     }
 
-    #post-code {
+    #address {
         font-size: 30px;
         text-decoration: none;
+        order: 3;
     }
 
     iframe {
@@ -419,6 +425,11 @@ footer {
         margin: 0 auto;
     }
 
+    #home-video {
+        width: 100%;
+        height: 250px;
+    }
+
     h2 {
         font-size: 55px;
         order: 2;
@@ -443,8 +454,7 @@ footer {
     }
 
     .top-line {
-        font-size: 50px;
-        order: 3;
+        font-size: 25px;
     }
 
     #left-body {
@@ -490,9 +500,10 @@ footer {
         order: 1;
     }
 
-    #post-code {
+    #address {
         font-size: 26px;
         text-decoration: none;
+        order: 3;
     }
 
     iframe {
