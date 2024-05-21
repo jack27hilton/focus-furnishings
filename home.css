@@ -202,6 +202,11 @@ footer {
         font-size: 55px;
     }
 
+    #home-video {
+        width: 100%;
+        height: 400px;
+    }
+
     .top-line {
         font-size: 50px;
         order: 3;
@@ -321,6 +326,11 @@ footer {
     .top-line {
         font-size: 50px;
         order: 3;
+    }
+
+    #home-video {
+        width: 100%;
+        height: 300px;
     }
 
     #left-body {
