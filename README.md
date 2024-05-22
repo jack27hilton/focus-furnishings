@@ -18,3 +18,7 @@ Secondly, given their small online presence and the fact there is other furnitre
 Designing the style of the webisite was challenging as alot of the bigger furniture retailers website contain moving imagery of their products as their main design which has become a very popular and is almost expectced from customers now.
 However i could not implement this into this website as i could not use javascript or other tools to create this effect.
 So I opted for a very unique but still simple design that keeps it easy for a customer to navigate and find information but the subtle lines and colour schemes create a sleek feel to it.
+
+## Challenges:
+### 1:
+The biggest challenge i faced was using media query to make the content fit the smaller screen sizes. This proved to be challenging as the layout and page design works for a desktop and larger screens, however the home page 3 horizontal sections design does not suit smaller screens as to fit all of that information in that style on a phone screen would cause it to be unreadable and look like a mess. So to fix this problem I had to trial and error with "flex-direction: column" so that the sectoins would now stack on smaller screens in the right order.
