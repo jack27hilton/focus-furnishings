@@ -8,8 +8,11 @@ Hopefully with this web page customers will see that even though they are an old
 Secondly, given their small online presence and the fact there is other furnitre retailers in the area one of which shares the name "Focus", this web page will ensure customers can find the right information for this shop which is obviously very important.
 
 ## Design:
+### Page 1 (home page):
 ![image of website home page](screenshots/home-ss.png)
+### Page 2 (browse page):
 ![image of website browse page](screenshots/browse-ss.png)
+### Page 3 (aboute page):
 ![image of website about page](screenshots/about-ss.png)
 
 Designing the style of the webisite was challenging as alot of the bigger furniture retailers website contain moving imagery of their products as their main design which has become a very popular and is almost expectced from customers now.
