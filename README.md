@@ -16,5 +16,5 @@ Secondly, given their small online presence and the fact there is other furnitre
 ![image of website about page](screenshots/about-ss.png)
 
 Designing the style of the webisite was challenging as alot of the bigger furniture retailers website contain moving imagery of their products as their main design which has become a very popular and is almost expectced from customers now.
-However i could not implement this into this website as i could not use javascript.
+However i could not implement this into this website as i could not use javascript or other tools to create this effect.
 So I opted for a very unique but still simple design that keeps it easy for a customer to navigate and find information but the subtle lines and colour schemes create a sleek feel to it.
