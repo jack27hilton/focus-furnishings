@@ -19,11 +19,7 @@ Designing the style of the webisite was challenging as alot of the bigger furnit
 However i could not implement this into this website as i could not use javascript or other tools to create this effect.
 So I opted for a very unique but still simple design that keeps it easy for a customer to navigate and find information but the subtle lines and colour schemes create a sleek feel to it.
 
-## Challenges:
-### 1:
-The biggest challenge i faced was using media query to make the content fit the smaller screen sizes. This proved to be challenging as the layout and page design works for a desktop and larger screens, however the home page 3 horizontal sections design does not suit smaller screens as to fit all of that information in that style on a phone screen would cause it to be unreadable and look like a mess. So to fix this problem I had to trial and error with "flex-direction: column" so that the sectoins would now stack on smaller screens in the right order.
-### 2:
-The second biggest challenge was the initial design of the website. Given that there are alot of large furniture retailers out there with very professional and advanced websites, websites for furniture retailers have started forming and pattern with moving images on a home page and product search bars with hundredsd of results for easy user interface. This made it hard for me to design a website that could still be recognised as a furniture retailers website and adhere to what the customers are used to seeing as I could not build the type of website that the big companies have. To make this easier I linked the already built online catalogues of the companies that Focus Furnishings sources their products from in the product navigation menu thus saving me time and the already built online catalogues look very professional already which reflects nicely on my website and Focus as a company.
-
 ## Tools: 
-This website was built using exclusivly HTML and CSS on my end. 
+### This website was built using exclusivly HTML and CSS on my end.
+## Fontawesome:
+I used an icon code creator online called <a href="https://fontawesome.com/">Fontawesome</a>
