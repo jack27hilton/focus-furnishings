@@ -23,4 +23,4 @@ The about page is a very simple page, designed to provide some background inform
 ## Tools: 
 ### This website was built using exclusivly HTML and CSS on my end.
 ## Fontawesome:
-I used an icon code creator online called <a href="https://fontawesome.com/" target="_blank">Fontawesome</a>
+I used an icon code creator online called <a href="https://fontawesome.com/" target="_blank">Fontawesome</a>. This allowed me add the facebook and instagram logo to my footer on all pages which is important and useful as the logos are instantly recognisable and look very smart as apposed to have the names written across the screen.
