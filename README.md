@@ -21,6 +21,6 @@ The browse page's purpose is, as the name implies, to help customers browse thro
 The about page is a very simple page, designed to provide some background information about Focus Furnishings for poeple who like to read up on businesses they buy from. It is important as it gives a chance for Focus to connect with the customers and persuade them that Focus Furnishings is a trustworthy shop and a good place to spend their money. There is also the iframe with a Google Maps image of the shop front which can be interacted with in the same way as on Google Maps itself. This is useful for customers as they can see what the shop looks like and where abouts on Green Street it is as it has apartments above it and can sometimes be easily missed.
 
 ## Tools: 
-### This website was built using exclusivly HTML and CSS on my end.
+### This website was built using exclusivly HTML and CSS.
 ## Fontawesome:
 I used an icon code creator online called <a href="https://fontawesome.com/" target="_blank">Fontawesome</a>. This allowed me add the facebook and instagram logo to my footer on all pages which is important and useful as the logos are instantly recognisable and look very smart as apposed to have the names written across the screen.
