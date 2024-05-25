@@ -31,3 +31,5 @@ The about page is a very simple page, designed to provide some background inform
 ### This website was built using exclusivly HTML and CSS.
 ## Fontawesome:
 I used an icon code creator online called <a href="https://fontawesome.com/" target="_blank">Fontawesome</a>. This allowed me add the facebook and instagram logo to my footer on all pages which is important and useful as the logos are instantly recognisable and look very smart as apposed to have the names written across the screen.
+## VS Code:
+A useful tool that iused throught the project is VS Code (Visiual Studios Code). This application is a very useful code space that makes it easier to write and store code and the best feature is easily opening a live server. The live server was an important tool for me as it makes it very easy to see what your code is producing with every change. On top of this, the short hand "emmet" can make it quicker and more efficent which is obviously a big bonus.
