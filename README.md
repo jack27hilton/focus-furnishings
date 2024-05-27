@@ -32,14 +32,7 @@ A useful tool that iused throught the project is VS Code (Visiual Studios Code).
 
 ## Testing:
 
-I have used dev tools on my live servers of this web page to see the pages on various screen sizes to ensure it has no issues on any screens.
+I have used dev tools on my live servers of this web page to see the pages on various screen sizes to ensure it has no issues on any screens. The HTML and CSS passed the online<a href="https://validator.w3.org/">HTML validator</a> and <a href="https://jigsaw.w3.org/css-validator/">CSS validator</a>.
 
-### Code validation:
 
-<a href="https://validator.w3.org/nu/#textarea">Home HTML validator test</a>
-<a href="https://jigsaw.w3.org/css-validator/validator">Home CSS validator test</a>
-<a href="https://validator.w3.org/nu/#textarea">Browse HTML validator test</a>
-<a href="https://jigsaw.w3.org/css-validator/validator">Browse CSS validator test</a>
-<a href="https://validator.w3.org/nu/#textarea">About HTML validator test</a>
-<a href="https://jigsaw.w3.org/css-validator/validator">About CSS validator test</a>
 
