@@ -45,6 +45,9 @@ Open the code tab on repository page and click codespace. Click the second set o
 From here I opened my VS Code server with the HTML and CSS for Focus Furnishings which I copy and pasted into the VS Code opened by GitHub with my repository.
 #### 4: 
 Commit and sync chnages to GitHub. All code is now saved, stored and live in GitHub repository.
+#### 5:
+Navigate to settings tab and click pages. Under "Build and deployment" select deploy from a branch. Under the "Branch" section select "main" and save.
+
 
 
 
