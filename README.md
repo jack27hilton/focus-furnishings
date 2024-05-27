@@ -34,5 +34,22 @@ A useful tool that iused throught the project is VS Code (Visiual Studios Code).
 
 I have used dev tools on my live servers of this web page to see the pages on various screen sizes to ensure it has no issues on any screens. The HTML and CSS passed the online<a href="https://validator.w3.org/" target="_blank">W3C Markup validation service</a> and <a href="https://jigsaw.w3.org/css-validator/" target="_blank">W3C CSS validation service</a>.
 
+## Deployment:
+This website is deployed on GitHub Pages.
+### Steps of deployment:
+#### 1:
+Open a new repository in GitHub. Add name of website and create. GitHub automatically sets up on "Main" fork.
+#### 2:
+Open the code tab on repository page and click codespace. Click the second set of three dots and select "open in Visual Studios code".
+#### 3: 
+From here I opened my VS Code server with the HTML and CSS for Focus Furnishings which I copy and pasted into the VS Code opened by GitHub with my repository.
+#### 4: 
+Commit and sync chnages to GitHub. All code is now saved, stored and live in GitHub repository.
+
+
+
+
+
+
 
 
